@@ -1,0 +1,18 @@
+.fill-white {
+  fill: white;
+}
+.fill-black {
+  fill: black;
+}
+.stroke-white {
+  stroke: white;
+}
+.stroke-black {
+  stroke: black;
+}
+.no-fill {
+  fill: none;
+}
+.linejoin-round {
+  stroke-linejoin: round;
+}
